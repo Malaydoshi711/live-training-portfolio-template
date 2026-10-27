@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#12100d"/>
+  <path d="M8 50c10-2 14-14 24-18s16 2 24-8" fill="none" stroke="#ff6b3d" stroke-width="2" opacity="0.55"/>
+  <text x="31" y="41" text-anchor="middle" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" fill="#ffe9c9">sq</text>
+</svg>
